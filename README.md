@@ -10,3 +10,9 @@
 - [Autosave Form - Firebase](./vue/autosave-form)
 
 ---
+
+## Svelte
+
+- [Login Form - Animated](./svelte/login-form-animated)
+
+---
