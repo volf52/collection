@@ -17,3 +17,9 @@
 - [Login Form - Animated](./svelte/login-form-animated)
 
 ---
+
+## Python
+
+- [FastAPI Microservices Project Structure](./python/fastapi_structure)
+
+---
