@@ -2,6 +2,7 @@
 
 - [Theme Switcher](./theme-switcher)
 - [Responsive Sidebar/Navbar](./responsive-navbar)
+- [Smooth Scrolling - CSS](./smooth-scrolling)
 
 ---
 
