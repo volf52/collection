@@ -23,3 +23,10 @@
 - [FastAPI Microservices Project Structure](./python/fastapi_structure)
 
 ---
+
+## Golang
+
+- [Concurrent Merge Sort](./go/concurrentSort.go)
+- [Tickler Pattern - Bounded Parallelism](./go/tickler-pattern)
+
+---
